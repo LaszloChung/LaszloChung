@@ -1,0 +1,5 @@
+- 👋 Hi, I’m [@LaszloChung](https://github.com/LaszloChung) / [Linkedin](https://www.linkedin.com/in/laszlotw/) / [Kaggle](https://www.kaggle.com/laszlore/competitions)
+- 👀 I’m interested in Machine Learning recently
+- 🌱 Graduated from
+  -  National Yang Ming Chiao Tung University M.S
+  -  Tunghai University B.S
